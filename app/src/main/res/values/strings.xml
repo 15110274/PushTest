@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PushTest</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+    <string name="fcm_message">Message</string>
+</resources>
